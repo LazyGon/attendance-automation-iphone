@@ -1,0 +1,30 @@
+{
+  "kind": "NONSECRET_LOCAL_FOLDER_CHECKS_ONLY",
+  "fixture": "2e3bc21a57ff4075893e8cfe6638be62",
+  "networkActions": 0,
+  "productionChanges": false,
+  "phoneObserved": false,
+  "assets": [
+    {
+      "role": "host",
+      "path": "diagnostics/native-local-folder-2e3bc21a57ff4075893e8cfe6638be62/Attendance Local Folder Check.shortcut",
+      "name": "Attendance Local Folder Check.shortcut",
+      "bytes": 24992,
+      "sha256": "f7d407d171dadd6807935883d45f7df08bcf06a4d52f11f336aed9ab62ff55f3"
+    },
+    {
+      "role": "in",
+      "path": "diagnostics/native-local-folder-2e3bc21a57ff4075893e8cfe6638be62/Attendance Local In Check.shortcut",
+      "name": "Attendance Local In Check.shortcut",
+      "bytes": 22208,
+      "sha256": "63b5e38e13dcbf6805374d303c25378123e41192df288faf948f30d4d5c4795d"
+    },
+    {
+      "role": "out",
+      "path": "diagnostics/native-local-folder-2e3bc21a57ff4075893e8cfe6638be62/Attendance Local Out Check.shortcut",
+      "name": "Attendance Local Out Check.shortcut",
+      "bytes": 22209,
+      "sha256": "9c8a31272cab9c275fe56c8931e2d8f461d2b5d5c408143af69a5206c4685efe"
+    }
+  ]
+}
