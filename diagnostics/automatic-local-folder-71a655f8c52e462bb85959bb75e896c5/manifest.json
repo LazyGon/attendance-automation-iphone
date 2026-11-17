@@ -1,0 +1,18 @@
+{
+  "kind": "SIGNED_NONSECRET_AUTOMATIC_LOCAL_FOLDER_PROBE",
+  "fixture": "71a655f8c52e462bb85959bb75e896c5",
+  "name": "Attendance Auto Folder Check.shortcut",
+  "bytes": 26411,
+  "sha256": "9f934f931329ad238f7735366d869ce36aac67a31d7ed440a29d26a4ede1062d",
+  "unsignedSha256": "3ac60046172f40e7369b9e824760790ef1e5eb53dd4e5652f947db377c7df93b",
+  "diagnosticRevision": "A1",
+  "networkActions": 0,
+  "folderPickers": 0,
+  "importQuestions": 0,
+  "productionChanged": false,
+  "physicalPhoneObserved": false,
+  "privateDeviceReferenceIncluded": false,
+  "requestedProvider": "com.apple.FileProvider.LocalStorage",
+  "nativeProviderResolutionObserved": false,
+  "localOnlyStorageVerified": false
+}
