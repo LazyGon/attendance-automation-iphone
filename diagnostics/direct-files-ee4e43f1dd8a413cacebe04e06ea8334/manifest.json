@@ -1,0 +1,11 @@
+{
+  "kind": "SIGNED_NONSECRET_DIRECT_FOLDER_DIAGNOSTIC",
+  "fixture": "ee4e43f1dd8a413cacebe04e06ea8334",
+  "name": "Attendance Files Direct Check.shortcut",
+  "bytes": 25245,
+  "sha256": "e030e8b885b581eb306c7ca68122c2994429cf3c94d1fcbc11c9affcf1e20c11",
+  "unsignedSha256": "4a3fdf3ca62993d3ccee0dcc72f83f6eab5d25d4fd2c70202809668d21f43a66",
+  "networkActions": 0,
+  "productionChanged": false,
+  "physicalPhoneObserved": false
+}
