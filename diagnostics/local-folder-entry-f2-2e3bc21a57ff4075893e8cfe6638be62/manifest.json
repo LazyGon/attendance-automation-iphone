@@ -1,0 +1,15 @@
+{
+  "kind": "SIGNED_NONSECRET_FIXED_FOLDER_ENTRY_CORRECTION",
+  "fixture": "2e3bc21a57ff4075893e8cfe6638be62",
+  "name": "Attendance Local Folder Check.shortcut",
+  "bytes": 25583,
+  "sha256": "fe9aa9f2e4b146f7acf782f0054b10dc6bdb58296b0715f97ce3ec8d5158ac03",
+  "unsignedSha256": "94ae43a3a75ccb33cfc5cdfbd4c74ddbea65ec22836ca33c5095058cda6ead55",
+  "diagnosticRevision": "F2",
+  "networkActions": 0,
+  "productionChanged": false,
+  "physicalPhoneObserved": false,
+  "privateDeviceReferenceIncluded": false,
+  "keepsExistingInAndOutCallers": true,
+  "requiresLocalFolderSelection": true
+}
