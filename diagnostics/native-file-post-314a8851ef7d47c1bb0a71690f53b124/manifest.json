@@ -1,0 +1,14 @@
+{
+  "kind": "ATTENDANCE_FILE_BACKED_POST_DIAGNOSTIC",
+  "revision": "FILE1",
+  "fixture": "314a8851ef7d47c1bb0a71690f53b124",
+  "file": "Attendance File POST Check.shortcut",
+  "bytes": 24703,
+  "sha256": "f00efd095093798bafde4a3c232631ce5a67fa559bbc7e90f30cfeb192a0a8cb",
+  "requestBody": "Fixed nonsecret92byte JSON loaded using native Files",
+  "actionsApp": false,
+  "folderSelectionRequired": false,
+  "realCredentialsOrPunchOrSms": false,
+  "purpose": "Compare local File-body POST307 with the prior Base64-result File-body POST307; native GET307 already succeeded.",
+  "phoneResult": "NOT_OBSERVED_FOR_THIS_CANDIDATE"
+}
